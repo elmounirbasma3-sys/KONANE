@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1780746060 source:c:\konane\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"menu.h"
+	"plateau.h"
+	"jeu.h"
+
+1780746003 c:\konane\menu.h
+
+1780744145 c:\konane\plateau.h
+
+1780749962 c:\konane\jeu.h
+	"struct.h"
+
+1780742625 c:\konane\struct.h
+
+1780744145 source:c:\konane\plateau.h
+
+1780742901 source:c:\konane\jeu.h
+	"struct.h"
+
+1780742623 source:c:\konane\menu.h
+
+1780745737 source:c:\konane\plateau.c
+	<stdio.h>
+	"plateau.h"
+
+1780742625 source:c:\konane\struct.h
+
+1780746789 c:\konane\verification.h
+	"struct.h"
+
+1780742818 source:c:\konane\verification.h
+	"struct.h"
+
+1780747585 source:c:\konane\jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jeu.h"
+	"plateau.h"
+	"verification.h"
+	"menu.h"
+
+1780746020 source:c:\konane\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1780747305 source:c:\konane\verification.c
+	<stdio.h>
+	<stdlib.h>
+	"verification.h"
+	"plateau.h"
+
